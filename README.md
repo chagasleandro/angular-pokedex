@@ -3,8 +3,8 @@ Desenvolver uma plataforma web para listagem e visualização de pokémons, para
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
 
-<img src="../../../assets/poke1.jpg">
-<img src="../../../assets/poke2.jpg">
+<img src="/src/assets/poke1.jpg">
+<img src="/src/assets/poke2.jpg">
 
 ## :globe_with_meridians: Tecnologias
 
