@@ -2,8 +2,9 @@
 Desenvolver uma plataforma web para listagem e visualização de pokémons, para a construção deste projeto foi usado Framework Angular. Todos os dados sobre os pokémons como nome, número, tipo, imagem e entre outras coisas, foram possíveis com o uso da API REST [PokéApi](https://pokeapi.co/docs/v2). 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
-
+<p>Tela Inicial do Projeto</p>
 <img src="/src/assets/poke1.jpg">
+<p>Tela de pesquisa de Pokemons</p>
 <img src="/src/assets/poke2.jpg">
 
 ## :globe_with_meridians: Tecnologias
