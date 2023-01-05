@@ -30,7 +30,7 @@ https://pokeapi.co/docs/v2
 
 Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 # Instalando as dependências
-$ npm init
+$ npm i
 
 
 
