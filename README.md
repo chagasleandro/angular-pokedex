@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Angular](https://angular.io/guide/setup-local) installed.
 
-## :wrench: Como Utilizar
+## :checkered_flag: Starting ##
 ```bash
 # Clonando esse repositório
 $ git clone https://github.com/chagasleandro/Pokedex.git
