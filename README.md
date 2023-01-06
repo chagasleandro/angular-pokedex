@@ -64,6 +64,6 @@ Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. 
 $ npm i
 
 # Figma:
-<p>Link deo projeto no criado no FIGMA: https://www.figma.com/file/AZ6mvD0UbYSqVBVoSIptu1/Pokedesk?t=idimxOO1c9aBO8BD-0</p>
+<p>Link deo projeto no criado no [FIGMA]: (https://www.figma.com/file/AZ6mvD0UbYSqVBVoSIptu1/Pokedesk?t=idimxOO1c9aBO8BD-0)</p>
 
 
