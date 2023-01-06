@@ -56,7 +56,7 @@ $ npm run dev ou ng serve -o
 ```
 # Documentação POKE API:
 
-Link da [POKE API] (https://pokeapi.co/docs/v2)
+Link da [POKE API](https://pokeapi.co/docs/v2)
 
 ## Servidor de desenvolvimento
 
