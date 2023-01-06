@@ -49,7 +49,7 @@ $ git clone https://github.com/chagasleandro/Pokedex.git
 # Access
 $ cd Pokedex
 # Install dependencies
-$ npm 
+$ npm install
 # Run the project
 $ npm run dev ou ng serve -o 
 # The server will initialize in the <http://localhost:4200>
@@ -61,8 +61,6 @@ Link da [POKE API](https://pokeapi.co/docs/v2)
 ## Servidor de desenvolvimento
 
 Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
-# Instalando as dependências
-$ npm i
 
 # Figma:
 Link do projeto no criado no [Figma](https://www.figma.com/file/AZ6mvD0UbYSqVBVoSIptu1/Pokedesk?t=idimxOO1c9aBO8BD-0)
