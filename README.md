@@ -54,8 +54,9 @@ $ npm
 $ npm run dev ou ng serve -o 
 # The server will initialize in the <http://localhost:4200>
 ```
-# Documentação POKEAPI
-https://pokeapi.co/docs/v2
+# Documentação POKE API:
+
+Link da [POKE API] (https://pokeapi.co/docs/v2)
 
 ## Servidor de desenvolvimento
 
