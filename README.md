@@ -45,7 +45,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## :checkered_flag: Starting ##
 ```bash
 # Clonando esse repositório
-$ git clone https://github.com/chagasleandro/Pokedex.git
+$ git clone https://github.com/chagasleandro/angular-pokedex.git
 # Access
 $ cd Pokedex
 # Install dependencies
